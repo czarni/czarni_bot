@@ -1,5 +1,4 @@
 # czarni_bot
-Can really call the bot whatever you want, I call it nargacuga bot on my server.
 ##
 Discord bot - Primarily for Monster Hunter World but can be used for other commands as well
 
