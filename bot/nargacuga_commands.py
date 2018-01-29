@@ -44,4 +44,9 @@ async def monster(member : monster):
     """Get info on a monster from Kiranico's site"""
     await bot.say (result)
 
+@bot.command()
+async def fairest():
+    """Who is the fairest in all the land?"""
+    await bot.say('Mayguns')
+
 bot.run('NDA1MTEzMDc3NzkzODE2NTg2.DUf8pA.xHvVVJZIfVf8qGvrSbZ0CXfOl0o')
